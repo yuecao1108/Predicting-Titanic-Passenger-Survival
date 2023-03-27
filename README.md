@@ -12,6 +12,6 @@ Exploratory data analysis revealed that females had a higher likelihood of survi
 
 Additionally, a correlation heatmap illustrated that variables such as 'Pclass', 'Sex_Code', and 'FareBin_Code' had higher correlations with the outcome variable 'Survived' than other variables.
 
-![image](https://user-images.githubusercontent.com/25331292/227841015-26cc561a-1479-461c-9e3d-58a6faac7e38.png)
+![image](https://user-images.githubusercontent.com/25331292/227845510-04d68c32-86e7-43a8-8501-3de265aa9be5.png)
 
 The dataset was then subjected to a Random Forest algorithm, which is an ensemble machine learning method rooted from decision trees. For this classification problem, the output of the Random Forest algorithm was the class selected by the majority of trees. The mean of cross-validated test scores was 81.23%, indicating that the model was able to accurately predict survival outcomes for over 80% of the inputs, based on a 10-fold cross validation result.
