@@ -1,6 +1,6 @@
 # Predicting Titanic Passenger Survival
 
-This is a machine learning project inspired by a Kaggle competition, [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic).
+This is a machine learning project in Python inspired by a Kaggle competition, [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic).
 
 The aim of this project is to utilize machine learning models to predict the survival for Titanic passengers. Since the outcome of interest is binary, the problem at hand is a binary classification task.
 
